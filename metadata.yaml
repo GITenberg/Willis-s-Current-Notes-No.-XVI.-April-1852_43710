@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41145'
     url: http://www.gutenberg.org/2009/agents/41145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43710#Willis-s-Current-Notes-No.-XVI.-April-1852
 gutenberg_issued: '2013-09-13'
 gutenberg_type: Text
 identifiers:
