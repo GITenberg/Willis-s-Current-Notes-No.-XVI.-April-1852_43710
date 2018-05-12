@@ -1,0 +1,24 @@
+_repo: Willis-s-Current-Notes-No.-XVI.-April-1852_43710
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43710-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Willis, George
+    gutenberg_agent_id: '41145'
+    url: http://www.gutenberg.org/2009/agents/41145
+description: ''
+gutenberg_issued: '2013-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Periodicals'
+- !lcc 'AP'
+title: Willis's Current Notes, No. 16, April 1852
+url: http://www.gutenberg.org/ebooks/43710
